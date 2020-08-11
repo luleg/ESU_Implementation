@@ -12,5 +12,7 @@
 /!\ Names and locations of directories where the results are saved can be simply changed in Global.h.
 
 Using the code : requires a c++ compiler (c++0x at least) and openMP to be installed/enabled.
+
 -> in a Unix console, type "make"
+
 -> then "./exec_esu -h" specifies how to use the code.
